@@ -1,0 +1,11 @@
+C:\Syears\Mywork\ziyunBrowser\ziyunBrowser\ziyunBrowser\bin\Debug\ziyunBrowser.exe.config
+C:\Syears\Mywork\ziyunBrowser\ziyunBrowser\ziyunBrowser\bin\Debug\ziyunBrowser.exe
+C:\Syears\Mywork\ziyunBrowser\ziyunBrowser\ziyunBrowser\bin\Debug\ziyunBrowser.pdb
+C:\Syears\Mywork\ziyunBrowser\ziyunBrowser\ziyunBrowser\bin\Debug\WebKit.Interop.dll
+C:\Syears\Mywork\ziyunBrowser\ziyunBrowser\ziyunBrowser\bin\Debug\stdole.dll
+C:\Syears\Mywork\ziyunBrowser\ziyunBrowser\ziyunBrowser\obj\Debug\ziyunBrowser.csprojResolveAssemblyReference.cache
+C:\Syears\Mywork\ziyunBrowser\ziyunBrowser\ziyunBrowser\obj\Debug\ziyunBrowser.Index.resources
+C:\Syears\Mywork\ziyunBrowser\ziyunBrowser\ziyunBrowser\obj\Debug\ziyunBrowser.Properties.Resources.resources
+C:\Syears\Mywork\ziyunBrowser\ziyunBrowser\ziyunBrowser\obj\Debug\ziyunBrowser.csproj.GenerateResource.Cache
+C:\Syears\Mywork\ziyunBrowser\ziyunBrowser\ziyunBrowser\obj\Debug\ziyunBrowser.exe
+C:\Syears\Mywork\ziyunBrowser\ziyunBrowser\ziyunBrowser\obj\Debug\ziyunBrowser.pdb
